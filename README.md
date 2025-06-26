@@ -1,6 +1,12 @@
 # Fast React Pizza
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/29063a4c-3127-4787-8470-c1c3401d936f/deploy-status)](https://app.netlify.com/projects/mikkelsons-fast-react-pizza/deploys)
+
 This is a modern, responsive web application for ordering pizzas (for a hypothetical pizza restaurant), built with React, React Router, and Redux Toolkit. Users can browse a menu, add pizzas to a cart, manage quantities, and place orders. The app features a clean UI and seamless navigation, making it easy to order your favorite pizzas. This project was built as part of the Udemy course "The Ultimate React Course 2025: React, Next.js, Redux & More" by Jonas Schmedtmann.
+
+## Demo
+
+Try the live app: [Fast React Pizza](https://mikkelsons-fast-react-pizza.netlify.app/)
 
 ## Features
 
